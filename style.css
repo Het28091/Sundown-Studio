@@ -503,19 +503,19 @@ nav h3 {
 }
 
 #full-scr {
-    height: 100vh;
+    height: 70vh;
     width: 100%;
     background-color: #00000070;
     position: fixed;
     z-index: 99;
-    top: -100%;
+    top: -150%;
     transition: all ease 0.5s;
     /* align-items: end */
 }
 
 #full-div1 {
-    margin-top: 30vw;
-    height: 80vw;
+    margin-top: 10vw;
+    height: 100vw;
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -988,12 +988,12 @@ nav h3 {
     }
     
     #full-scr {
-        height: 100vh;
+        height: 80vh;
         width: 100%;
         background-color: #00000070;
         position: fixed;
         z-index: 99;
-        top: -150%;
+        top: -150;
         transition: all ease 0.5s;
         /* align-items: end */
     }
@@ -1014,7 +1014,7 @@ nav h3 {
     #projects h4 {
         margin-top: 2vw;
         margin-left: 2vw;
-        padding: 10px 20px;
+        padding: 1vw 3vw;
         border: 1px solid #0000003c;
         border-radius: 50px;
         font-weight: 500;
@@ -1023,7 +1023,7 @@ nav h3 {
         position: relative;
         font-size: 18px;
         overflow: hidden;
-        width: 38vw;
+        width: 90vw;
     }
     
     #projects h4::after {
