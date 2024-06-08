@@ -993,7 +993,7 @@ nav h3 {
         background-color: #00000070;
         position: fixed;
         z-index: 99;
-        top: -100%;
+        top: -150%;
         transition: all ease 0.5s;
         /* align-items: end */
     }
@@ -1023,7 +1023,7 @@ nav h3 {
         position: relative;
         font-size: 18px;
         overflow: hidden;
-        width: 34vw;
+        width: 38vw;
     }
     
     #projects h4::after {
